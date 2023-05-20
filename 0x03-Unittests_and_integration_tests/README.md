@@ -16,7 +16,7 @@ $ python -m unittest path/to/test_file.py
 
 
 ##  Required Files
-`**utils.py**` (or [download](https://intranet-projects-files.s3.amazonaws.com/webstack/utils.py))
+` **utils.py** ` (or [download](https://intranet-projects-files.s3.amazonaws.com/webstack/utils.py))
 file contents
 
 ```
