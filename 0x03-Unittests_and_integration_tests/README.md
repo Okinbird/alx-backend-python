@@ -97,7 +97,7 @@ def memoize(fn: Callable) -> Callable:
     return property(memoized)
 ```
 
-`**client.py**` (or [download](https://intranet-projects-files.s3.amazonaws.com/webstack/client.py))
+**client.py** (or [download](https://intranet-projects-files.s3.amazonaws.com/webstack/client.py))
 file contents
 
 ```
@@ -161,7 +161,7 @@ class GithubOrgClient:
         return has_license
 ```
 
-`**fixtures.py**` ([download](https://intranet-projects-files.s3.amazonaws.com/webstack/fixtures.py))
+**fixtures.py** ([download](https://intranet-projects-files.s3.amazonaws.com/webstack/fixtures.py))
 
 
 ##  0. Parameterize a unit test
